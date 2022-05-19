@@ -1,0 +1,7 @@
+{
+  "config": {
+    "user": "VueDB",
+    "password": "VueDB",
+    "connectString": "localhost:1521/xe"
+  }
+}
